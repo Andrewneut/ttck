@@ -1,0 +1,139 @@
+body {
+    margin:             auto;
+    height:             100%;
+    width:              100%;
+    margin-bottom:      0!important;
+    padding-bottom:     0!important;
+}
+
+html {
+    height:             100%;
+    width:              100%;
+}
+
+.container1
+{
+    margin:             auto;
+    width:              100%;
+    height:             100%;
+    padding-left:       5%;
+    padding-right:      5%;
+    overflow:           auto;
+}
+
+.Banniere
+{
+    margin-left:        100px;
+}
+
+.lead
+{
+    margin-top:         -100px;
+    text-align:         center;
+}
+
+.Banniere h1
+{
+    margin-left:        50px;
+}
+
+/*
+       * Effet : Le Menu de l'index;
+       * 
+*/
+
+#pseudo 
+{
+    cursor:             pointer;
+    float:              right;
+    border-right :      4px solid green;    
+}
+
+#pseudo ul li
+{
+    list-style-type:    none;
+}
+
+#Profil ul li
+{
+    list-style-type:    none;
+    padding-top:        30px;
+}
+.glyphicon 
+{
+    margin-left:        -30px;
+}
+
+#ImageInscription
+{
+    float:              right;
+    margin-top:         -350px;
+}
+
+#Formulaire
+{
+    margin:             auto;
+    margin-top:         100px;
+}
+
+.glyphicon-navbar {  
+    margin:             0;
+    margin-right:       10px;
+}
+
+#connexionBtnLi {
+    padding-right:      30px;
+    padding-left:       15px;
+}
+
+#inscriptionBtnLi {
+}
+
+.fullWidth {
+    height:             100%;
+    width:              100%;
+}
+
+.inputAddonModal {
+    width:              30%;
+}
+
+.btnModal {
+    width:              49%;
+}
+
+.displayMsgErrorDad {
+    height:             30px;
+    width:              100%;
+    padding-bottom:     50px;
+}
+
+.displayMsgError {
+    display:            none;
+    width:              100%;
+    height:             100%;
+    text-align:         center;
+}
+
+#displayMsgErrorInscription {
+    height:             17px;
+}
+
+.inputInscription {
+    margin-bottom:      10px;
+}
+
+.whitetext {
+    color:              white!important;
+}
+
+#welcome {
+    text-align:         center;
+    margin-left:        0;
+    margin-bottom:      50px;
+    text-decoration:    underline;
+}
+
+#myCarousel {
+    border:             1px solid #ddd;
+}

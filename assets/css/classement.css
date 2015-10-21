@@ -1,0 +1,59 @@
+body {
+    margin:             auto;
+    height:             100%;
+    width:              100%;
+    margin-bottom:      0!important;
+    padding-bottom:     0!important;
+}
+
+html {
+    height:             100%;
+    width:              100%;
+}
+
+.container1
+{
+    margin:             auto;
+    width:              100%;
+    height:             100%;
+    padding-left:       5%;
+    padding-right:      5%;
+    overflow:           auto;
+}
+
+#conteneur {
+    height:             100%;
+    width:              100%;
+}
+
+#classement-table thead tr {
+    background-color:   #222222;
+    color:              white;
+}
+
+.margin {
+    margin:             0;
+}
+
+#classement-table thead tr th {
+    min-width:              20%;
+    width:                  20%;
+}
+
+.gold {
+    margin:             0;
+    padding-left:       15px;
+    color:              #FFE15E;
+}
+
+.silver {
+   margin:             0;
+   padding-left:       15px;
+   color:              #D8D8D8;
+}
+
+.bronze {
+   margin:             0;
+   padding-left:       15px;
+   color:              #AF9941;
+}

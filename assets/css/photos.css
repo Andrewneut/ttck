@@ -1,0 +1,112 @@
+body {
+    margin:             auto;
+    height:             100%;
+    width:              100%;
+    margin-bottom:      0!important;
+    padding-bottom:     0!important;
+}
+
+html {
+    height:             100%;
+    width:              100%;
+}
+
+.container1
+{
+    margin:             auto;
+    width:              100%;
+    height:             100%;
+    padding-left:       5%;
+    padding-right:      5%;
+    overflow:           auto;
+}
+
+.daddyphoto {
+    height:                 50%;
+    padding-top:            5px;
+    padding-bottom:         5px;
+}
+
+.daddyphoto2 {
+    height:                 100%;
+}
+
+.daddyphoto3 {
+    height:                 100%;
+    cursor:                 default;
+}
+
+.daddyphoto4 {
+    height:                 100%!important;
+}
+
+.quipostelaphoto {
+    border:                 1px solid #ddd;
+    text-align:             center;
+    padding-top:            5px;
+    padding-bottom:         5px;
+    border-radius:          5px;
+}
+
+.margin {
+    margin:             0;
+    padding-right:      10px;
+}
+
+.tableDescr {
+    width:              100%;
+}
+
+#ajoutPhoto {
+    width:              100%;
+}
+
+.daddyupload {
+    padding-left:       15px;
+    padding-right:      15px;
+    margin-bottom:      20px;
+}
+
+.daddyupload2 {
+    border:             1px solid #ddd;
+    height:             100%;
+    width:              100%;
+    padding:            10px;
+    border-radius:      5px;
+}
+
+#tdfirst {
+    width:              20%;
+}
+
+#tdsecond {
+    width:              80%;
+}
+
+#tableupload {
+    width:              100%;
+    height:             100%;
+}
+
+#titreajoutphoto {
+    background-color:   #222222;
+    padding:            5px;
+    border-radius:      5px;
+    color:              whitesmoke;
+    margin-bottom:      20px;
+    text-align:         center;
+    font-weight:        bold;
+}
+
+#errDisplay, #goodDisplay {
+    display:            none;
+    width:              100%
+}
+
+.removePhoto {
+    color:              red;
+}
+
+.daddyphoto3:hover {
+    border:                 1px solid #ddd!important;
+}

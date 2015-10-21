@@ -1,0 +1,89 @@
+body {
+    margin:             auto;
+    height:             100%;
+    width:              100%;
+    margin-bottom:      0!important;
+    padding-bottom:     0!important;
+}
+
+html {
+    height:             100%;
+    width:              100%;
+}
+
+.container1
+{
+    margin:             auto;
+    width:              100%;
+    height:             100%;
+    padding-left:       5%;
+    padding-right:      5%;
+    overflow:           auto;
+}
+
+#conteneur {
+    height:             100%;
+    width:              100%;
+}
+
+#membres-table thead tr {
+    background-color:   #222222;
+    color:              white;
+}
+
+#membres-table thead tr th {
+     text-align:         center;   
+}
+
+.margin {
+    margin:             0;
+}
+
+#membres-table {
+    text-align:         center;
+}
+
+#membres-table thead tr th {
+    min-width:              22%;
+    width:                  22%;
+}
+
+.removeMembre {
+    color:                  red;
+    font-size:              15pt;
+    cursor:                 pointer;
+}
+
+.initPasswordMembre {
+    color:                  black;
+    font-size:              13pt;
+    cursor:                 pointer;   
+}
+
+#noDelete {
+    width:                  49%;
+    height:                 100%;
+}
+
+#yesDelete {
+    width:                  49%;
+    height:                 100%;
+}
+
+#noDelete2 {
+    width:                  49%;
+    height:                 100%;
+}
+
+#yesDelete2 {
+    width:                  49%;
+    height:                 100%;
+}
+
+#checkPopupID .modal-title {
+    text-align:             center;
+}
+
+#checkReinitPopupID .modal-title {
+    text-align:             center;
+}
